@@ -1,1 +1,3 @@
-# UAdeO-fj2025-Colaborar-Repo-Publico
+# Colaboracion en Repositorio Publico
+
+[@OmarEspinoza19](https://github.com/OmarEspinoza19)
